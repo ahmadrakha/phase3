@@ -1,0 +1,34 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	display: block;
+}
+.blue{
+	display: flex;
+	height: calc(100vh/3);
+	width: 100vw;
+}
+.yellow{
+	display: flex;
+	height: calc(100vh/3);
+	width: 25vw;
+	background-color:  #0000FF;
+}
+.brown{
+	display: flex;
+	height: 100vh;
+	width: calc(25vw/2);
+	background-color:  #000000;
+}
+.purple{
+	display: flex;
+	height: calc(100vh/3);
+	width: calc(100vw/6);
+	background-color:  #800080;
+}
+.green{
+	display: flex;
+	height: calc(100vh/3);
+	width: calc(100vw/6);
+	background-color:  #000000;
+}
